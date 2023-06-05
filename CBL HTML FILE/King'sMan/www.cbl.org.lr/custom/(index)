@@ -1,0 +1,1495 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-113376614-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/gol/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://www.cbl.org.lr/public/home" />
+<link rel="shortlink" href="https://www.cbl.org.lr/node/1" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.icon_color = "transparent, #3078B8";</script>
+
+    <title>Home | Central Bank of Liberia</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_NoqlNxPw31eQmSuBEpltG_46u5epxzpzcn9fd8gT2o8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_yv85BvK9ne8rD2_znQ3irrfX6iOy3Hw3Rc_0yCu4t8Y.css" />
+
+    <script src="/libraries/fontawesome/js/all.min.js?v=6.1.0" data-search-pseudo-elements></script>
+<script src="/libraries/fontawesome/js/v4-shims.min.js?v=6.1.0" data-search-pseudo-elements></script>
+
+  </head>
+  <body class="path-frontpage page-node-type-fp has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+<!-- #header-government -->
+    <div id="header-government-top" class="container-fluid clearfix hidden-xs hidden-sm">
+    	<div class="row">
+    		<div class="col-sm-12">
+    			
+        
+				        <div id="header-government" class=" container-fluid clearfix hidden-xs hidden-sm">
+				            <div class="row">
+				                <div class="col-md-5 hidden-sm hidden-xs">
+				                    				                    <div class="government-left">
+				                      <div class="region region-government">
+    <section id="block-governmentlinkblock" class="block block-block-content block-block-contentaa225ce8-398e-4bc4-b430-574ddbf5e2a5 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><i class="fas fa-phone-alt"></i>+231 77 660 9066</p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+				                    </div>
+				                    				                </div>
+				
+				                <div class="col-md-7 hidden-sm hidden-xs">
+				                    				
+				                    <div class="government-right pull-right">
+				                      <div class="region region-email-login">
+    <section id="block-topmenus" class="block block-block-content block-block-content9c138fc5-1e1c-48cd-a86a-6b13694186eb clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><ul class="top-menu pull-right">
+	<li><a href="/">Home</a></li>
+	<li><a href="/general/links">Links</a></li>
+	<li><a href="/general/faqs">FAQs</a></li>
+	<li><a href="/general/all-publications">Publications</a></li>
+	<li><a href="/careers">Careers</a></li>
+	<li><a href="/publications/document-type/tenders"> Bids &amp; EOIs</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</div>
+      
+  </section>
+
+
+  </div>
+
+				                    </div>
+				                    				                </div>
+				            </div>
+				        </div>
+		        
+			</div>	        
+    	</div>    
+    </div>    
+        <!-- EOF: #pre-header-inside -->
+
+
+
+
+<!-- #pre-header-inside -->
+        <div id="pre-header-inside" class=" container-fluid clearfix">
+            <div class="row">
+                <div class="col-md-7 t1">
+                                        <div class="pre-header-area">
+                      <div class="region region-logo-holder">
+          <a class="logo navbar-btn pull-left" href="/index.php/" title="Home" rel="home">
+      <img src="/sites/default/files/logo-cbl.png" alt="Home" />
+    </a>
+        <a class="name navbar-brand" href="/index.php/" title="Home" rel="home">Central Bank of Liberia</a>
+    
+  </div>
+
+                    </div>
+                                    </div>
+
+                <div class="col-md-4 hidden-sm hidden-xs t1">
+                    
+                    <div class="search-bar">
+                      <div class="region region-search-bar">
+    <div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-searchform" role="search">
+  
+      <h2 class="visually-hidden">Search form</h2>
+    
+      <form action="/index.php/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Search</label>
+  
+  
+  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Search</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+
+  
+  
+      <div id="edit-keys--description" class="description help-block">
+      Enter the terms you wish to search for.
+    </div>
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
+
+</form>
+
+  </div>
+
+  </div>
+
+                    </div>
+                                    </div>
+                <div id="menu-for" class="col-md-1 hidden-sm hidden-xs t1">
+                  <div class="region region-sleek-menu">
+    <section id="block-desktopmenu" class="block block-block-content block-block-content9053e441-fd90-4836-a4f8-1f408b5d0669 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div id="menu-button">
+<div class="hides">Menu <i class="fas fa-lg fa-bars"></i></div>
+
+<div class="shows">Close <i class="fas fa-lg fa-times"></i></div>
+</div>
+</div>
+      
+  </section>
+
+
+  </div>
+
+                </div>
+                
+            </div>
+        </div>
+        <!-- EOF: #pre-header-inside -->
+
+<!-- #menu_bar -->
+
+        <div id="menu_bar" class=" container-fluid">
+
+            <div class="row">
+                <div class="col-md-12">
+                    
+                    <div class="menu_bar-inner">
+					<div class="menu_desktop">
+                      <div class="region region-menu-bar">
+    <nav role="navigation" aria-labelledby="block-about-menu" id="block-about">
+            
+  <h2 class="visually-hidden" id="block-about-menu">about</h2>
+  
+
+        
+              <ul class="menu nav">
+                            <li class="expanded dropdown">
+        <a href="/index.php/general/brief-history-central-bank-liberia" class="dropdown-toggle" data-target="#" data-toggle="dropdown">About Us </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/general/board-governors" data-drupal-link-system-path="node/3223">The Board of Governors</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/committees-central-bank-liberia" data-drupal-link-system-path="node/3224">Committees</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/list-senior-staff-central-bank-liberia" data-drupal-link-system-path="node/3254">Senior Staff Directory</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/organizational-chart-and-other-information" data-drupal-link-system-path="node/3255">Organizational Chart</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/central-bank-liberia-acts-and-laws" data-drupal-link-system-path="taxonomy/term/180">Central Bank of Liberia Acts and By-Laws</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/office-governor" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Governor </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/senior-management/governors-profile-0" data-drupal-link-system-path="node/3274">Governor&#039;s Profile</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/special-statement" data-drupal-link-system-path="taxonomy/term/213">Special Statement</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/regulator" data-drupal-link-system-path="taxonomy/term/214">The Regulator</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/other-information-0" data-drupal-link-system-path="taxonomy/term/215">Other information</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/development-finance" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Development Finance </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/general/financial-inclusion-initiatives" data-drupal-link-system-path="node/3262">Financial Inclusion Initiatives</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/microfinance-institutions" data-drupal-link-system-path="node/3263">Microfinance Institutions</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/credit-unions" data-drupal-link-system-path="node/3264">Credit Unions</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/village-savings-and-loan-associations" data-drupal-link-system-path="node/3265">Village Savings and Loan Associations</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/micro-finance-documents-and-publications" data-drupal-link-system-path="taxonomy/term/217">Micro Finance Documents and Publications</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/rural-community-finance-institutions" data-drupal-link-system-path="node/3266">Rural Community Finance Institutions</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/maya-declaration-liberia" data-drupal-link-system-path="node/3267">Maya Declaration for Liberia</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/treasury" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Financial Markets </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/publications/document-type/financial-market-acts" data-drupal-link-system-path="taxonomy/term/197">Financial Market Acts</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/rules-and-regulations" data-drupal-link-system-path="taxonomy/term/198">Rules and Regulations</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/treasury-bills" data-drupal-link-system-path="taxonomy/term/199">Treasury Bills</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/bidding-forms" data-drupal-link-system-path="taxonomy/term/200">Bidding Forms</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/central-bank-liberia-bills" data-drupal-link-system-path="taxonomy/term/201">Central Bank of Liberia Bills</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/supervision-department" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Supervision </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/general/mission-statement-supervision-department" data-drupal-link-system-path="node/3271">Mission Statement and Objectives</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/regulatory-framework-all-acts" data-drupal-link-system-path="taxonomy/term/202">Regulatory Framework - (All Acts)</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/regulations" data-drupal-link-system-path="taxonomy/term/203">Regulations</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/directives" data-drupal-link-system-path="taxonomy/term/204">Directives</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/guidelines" data-drupal-link-system-path="taxonomy/term/205">Guidelines</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/bank-restructuring-and-resolution" data-drupal-link-system-path="taxonomy/term/206">Bank Restructuring and Resolution</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/financial-charges-banking-industry" data-drupal-link-system-path="taxonomy/term/207">Financial Charges in the Banking Industry</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/insurance" data-drupal-link-system-path="taxonomy/term/209">Insurance</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/non-banks-financial-institutions" data-drupal-link-system-path="taxonomy/term/210">Non Banks Financial Institutions</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/financial-information-banking-industry" data-drupal-link-system-path="taxonomy/term/211">Financial Information of the Banking Industry</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/commercial-banks-liberia-information" data-drupal-link-system-path="node/3272">Commercial Banks of Liberia Information</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/consumer-education-and-awareness" data-drupal-link-system-path="node/3273">Consumer Education and Awareness</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/consumer-protection" data-drupal-link-system-path="taxonomy/term/216">Consumer Protection</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/research-department" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Research </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/publications/document-type/liberia-financial-statistical-reports" data-drupal-link-system-path="taxonomy/term/182">Liberia Financial Statistical Reports</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/economic-bulletin" data-drupal-link-system-path="taxonomy/term/183">Economic Bulletin</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/cbl-policy-statement-and-direction" data-drupal-link-system-path="taxonomy/term/184">CBL Policy Statement and Direction</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/research/buying-selling-rates" data-drupal-link-system-path="research/buying-selling-rates">Daily Exchange Rates</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/cbl-newsletter" data-drupal-link-system-path="taxonomy/term/185">CBL Newsletter</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/cbl-annual-reports" data-drupal-link-system-path="taxonomy/term/186">CBL Annual Reports</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/liberia-hpci" data-drupal-link-system-path="taxonomy/term/187">Liberia HPCI</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/balance-payment-reports" data-drupal-link-system-path="taxonomy/term/188">Balance of Payment Reports</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/supervision-reports" data-drupal-link-system-path="taxonomy/term/208">Supervision Reports</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/foreign-exchange-auction" data-drupal-link-system-path="taxonomy/term/189">Foreign Exchange Auction</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/factsheets" data-drupal-link-system-path="taxonomy/term/190">Factsheets</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/cpi-year-year-rate-inflation" data-drupal-link-system-path="taxonomy/term/191">CPI (Year-On-Year Rate of Inflation)</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/research-publications" data-drupal-link-system-path="taxonomy/term/192">Research Publications</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/financial-statements" data-drupal-link-system-path="taxonomy/term/193">Financial Statements</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/other-information-research" data-drupal-link-system-path="taxonomy/term/219">Other Information from Research</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/monthly-economic-review" data-drupal-link-system-path="taxonomy/term/194">Monthly Economic Review</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/working-paper-series" data-drupal-link-system-path="taxonomy/term/181">Working Paper Series</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/bilateral-exchange-rate" data-drupal-link-system-path="taxonomy/term/195">Bilateral Exchange Rate</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/statistical-data-series" data-drupal-link-system-path="taxonomy/term/196">Statistical Data Series</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/banking-department" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Banking </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/general/clearing-house" data-drupal-link-system-path="node/3268">Clearing House</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/currency" data-drupal-link-system-path="node/3220">Currency</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/payment-systems-department" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Payment Systems </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/general/overview-payment-systems-liberia" data-drupal-link-system-path="node/3238">Overview</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/payment-systems-regulatory-framework" data-drupal-link-system-path="node/3239">Regulatory Framework</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/general/governance-frameworkpayment-systems-oversight" data-drupal-link-system-path="node/3240">Governance Framework</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/payment-systems-regulatory-framework" data-drupal-link-system-path="taxonomy/term/220">Payment Systems Regulatory Framework</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/payment-systems-statistics" data-drupal-link-system-path="taxonomy/term/218">Payment Systems Statistics</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown">
+        <a href="/index.php/general/media" class="dropdown-toggle" data-target="#" data-toggle="dropdown">Media </a><span class="caret"></span>
+                                  <ul class="menu dropdown-menu">
+                            <li>
+        <a href="/index.php/media/news-press-release" data-drupal-link-system-path="media/news-press-release">News &amp; Press Releases</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/media/photo-gallery" data-drupal-link-system-path="media/photo-gallery">Photo Gallery</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/media/videos" data-drupal-link-system-path="media/videos">Videos</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/vacancies-career-opportunities" data-drupal-link-system-path="taxonomy/term/172">Vacancies &amp; Career Opportunities</a> <span class="caret"></span>
+                  </li>
+                        <li>
+        <a href="/index.php/publications/document-type/tenders" data-drupal-link-system-path="taxonomy/term/179">Bids &amp; EOIs</a> <span class="caret"></span>
+                  </li>
+        </ul>
+  
+            </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <!-- EOF: #menu_bar -->
+
+<!-- #xtitle -->
+        <!-- EOF: #xtitle -->
+
+<!-- #wide_image -->
+        <!-- EOF: #wide_image -->
+
+<!-- #wide carosel -->
+        <div id="wide-carosel" class="hidden-sm hidden-xs container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    
+                    <div class="wide-carosel-inner">
+                      <div class="region region-wide-carosel">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-18 clearfix" id="block-views-block-home-page-carousel-block-18">
+  
+    
+
+      <div class="form-group"><div class="view view-home-page-carousel view-id-home_page_carousel view-display-id-block_18 js-view-dom-id-627953f898a98509e11b62a3ed0a377d62e08f96d962461cefe8fe8efab59dd7">
+  
+    
+      
+      <div class="view-content">
+      
+
+<div id="views-bootstrap-home-page-carousel-block-18" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" data-wrap="1">
+
+        <ol class="carousel-indicators">
+                              <li class="active" data-target="#views-bootstrap-home-page-carousel-block-18" data-slide-to="0"></li>
+                  </ol>
+  
+    <div class="carousel-inner" role="listbox">
+                                <div  class="item row active">
+            <div class="col-md-12">
+                <div class="gol-vbm">  <img src="/sites/default/files/styles/wide_carousel/public/images/cbl-building-main_0.jpg?h=f2a02591&amp;itok=xqxT9LXI" width="1600" height="554" alt="Central Bank of Liberia" loading="lazy" typeof="Image" class="img-responsive" />
+
+
+
+</div>
+                  <div class="carousel-caption">
+                          <h3>The Mandate of the CBL</h3>
+                                      <p><p class="carosel-p">To achieve and maintain domestic price stability in the Liberian economy by formulating and implementing the monetary policy of Liberia. To contribute to fostering and maintaining a stable financial system by conducting and enforcing macroprudential policy. The Bank may support the general economic policy of the government, in keeping with its monetary policy mandate. </p>
+<div class="carosel-b"><a href="/general/mandate-cbl" class="btn btn-default btn-sm pr-btn pull-right" role="button">Learn More &nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></div></p>
+                      </div>
+                      </div>
+              </div>
+            </div>
+
+    </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+                <!-- EOF: #wide-carosel -->
+
+
+
+
+
+
+
+
+
+
+
+
+      	<div id="wide-news" class=" container-fluid">
+<div class="row">
+ <div id="newnews-document" class=" container clearfix">
+ <div class="row">
+                <div class="col-md-6">
+                    	<div class="news_holder">
+                    		  <div class="region region-news-holder">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-2 clearfix" id="block-views-block-home-page-carousel-block-2-2">
+  
+      <h2 class="block-title">News &amp; Press Releases</h2>
+    
+
+      <div class="form-group"><div class="cbl-new-front view view-home-page-carousel view-id-home_page_carousel view-display-id-block_2 js-view-dom-id-aa39c852a5da70cfbd2b1b697a8c9279e684851cbad88cc1eac24e688ec96d04">
+  
+    
+      
+      <div class="view-content">
+          <div class="news-rows views-row"><div class="views-field views-field-field-content-post-date"><div class="field-content press-release-home-css"><time datetime="2022-12-13T12:00:00Z">Tuesday, December 13, 2022</time>
+</div></div><div class="views-field views-field-title"><div class="field-content press-release-title-main"><a href="/media/press-releases/cbl-warns-delinquent-borrowers-risk-being-barred-accessing-banking-services" hreflang="en">CBL WARNS DELINQUENT BORROWERS:  Risk Being Barred From Accessing Banking Services</a></div></div></div>
+    <div class="news-rows views-row"><div class="views-field views-field-field-content-post-date"><div class="field-content press-release-home-css"><time datetime="2022-10-05T12:00:00Z">Wednesday, October 5, 2022</time>
+</div></div><div class="views-field views-field-title"><div class="field-content press-release-title-main"><a href="/media/press-releases/special-statement-executive-governor-official-commencement-currency-exchange" hreflang="en">Special Statement by the Executive Governor on the Official Commencement of the Currency Exchange Exercise</a></div></div></div>
+    <div class="news-rows views-row"><div class="views-field views-field-field-content-post-date"><div class="field-content press-release-home-css"><time datetime="2022-10-04T12:00:00Z">Tuesday, October 4, 2022</time>
+</div></div><div class="views-field views-field-title"><div class="field-content press-release-title-main"><a href="/media/press-releases/no-fire-incident-cbl-vault" hreflang="en">No Fire Incident in CBL Vault</a></div></div></div>
+    <div class="news-rows views-row"><div class="views-field views-field-field-content-post-date"><div class="field-content press-release-home-css"><time datetime="2022-10-03T12:00:00Z">Monday, October 3, 2022</time>
+</div></div><div class="views-field views-field-title"><div class="field-content press-release-title-main"><a href="/media/press-releases/cbl-board-governors-holds-retreat" hreflang="en">CBL Board of Governors Holds Retreat</a></div></div></div>
+
+    </div>
+  
+          <div class="more-link form-group"><a href="/media/news-press-release">View All</a></div>
+
+      </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                    	</div>
+                </div>
+                	                    		                    	<div class="col-md-6">
+	                    					                    	<div class="key_documents">
+			                    		  <div class="region region-toad">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-23 clearfix" id="block-views-block-home-page-carousel-block-23">
+  
+      <h2 class="block-title">Market Buying and Selling Rates</h2>
+    
+
+      <div class="form-group"><div class="New-front view view-home-page-carousel view-id-home_page_carousel view-display-id-block_23 js-view-dom-id-912dcc0a678bd804fd06869cc0a1fc028df718bdda3927bf0612c7d5446bca51">
+  
+    
+      
+      <div class="view-content">
+      
+
+<table class="table table-striped table-hover cols-3">
+        <thead>
+      <tr>
+                                                  <th id="view-field-content-post-date-table-column" class="views-field views-field-field-content-post-date" scope="col">Date</th>
+                                                  <th id="view-field-buying-us-table-column" class="views-field views-field-field-buying-us" scope="col">Buying</th>
+                                                  <th id="view-field-selling-us-table-column" class="views-field views-field-field-selling-us" scope="col">Selling</th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr>
+                                                                                        <td class="press-release-home-css views-field views-field-field-content-post-date" headers="view-field-content-post-date-table-column"><div>
+                              <time datetime="2023-01-25T12:00:00Z">January 25, 2023</time>
+
+                            </div>          </td>
+                                                                                        <td headers="view-field-buying-us-table-column" class="views-field views-field-field-buying-us">L$155.5917/1.00          </td>
+                                                                                        <td headers="view-field-selling-us-table-column" class="views-field views-field-field-selling-us">L$157.7991/US$1.00          </td>
+              </tr>
+          <tr>
+                                                                                        <td class="press-release-home-css views-field views-field-field-content-post-date" headers="view-field-content-post-date-table-column"><div>
+                              <time datetime="2023-01-24T12:00:00Z">January 24, 2023</time>
+
+                            </div>          </td>
+                                                                                        <td headers="view-field-buying-us-table-column" class="views-field views-field-field-buying-us">L$155.5570/1.00          </td>
+                                                                                        <td headers="view-field-selling-us-table-column" class="views-field views-field-field-selling-us">L$157.7529/US$1.00          </td>
+              </tr>
+          <tr>
+                                                                                        <td class="press-release-home-css views-field views-field-field-content-post-date" headers="view-field-content-post-date-table-column"><div>
+                              <time datetime="2023-01-23T12:00:00Z">January 23, 2023</time>
+
+                            </div>          </td>
+                                                                                        <td headers="view-field-buying-us-table-column" class="views-field views-field-field-buying-us">L$155.5198/1.00          </td>
+                                                                                        <td headers="view-field-selling-us-table-column" class="views-field views-field-field-selling-us">L$157.6996/US$1.00          </td>
+              </tr>
+          <tr>
+                                                                                        <td class="press-release-home-css views-field views-field-field-content-post-date" headers="view-field-content-post-date-table-column"><div>
+                              <time datetime="2023-01-21T12:00:00Z">January 21, 2023</time>
+
+                            </div>          </td>
+                                                                                        <td headers="view-field-buying-us-table-column" class="views-field views-field-field-buying-us">L$155.3973/1.00          </td>
+                                                                                        <td headers="view-field-selling-us-table-column" class="views-field views-field-field-selling-us">L$157.5403/US$1.00          </td>
+              </tr>
+          <tr>
+                                                                                        <td class="press-release-home-css views-field views-field-field-content-post-date" headers="view-field-content-post-date-table-column"><div>
+                              <time datetime="2023-01-20T12:00:00Z">January 20, 2023</time>
+
+                            </div>          </td>
+                                                                                        <td headers="view-field-buying-us-table-column" class="views-field views-field-field-buying-us">L$155.4465/1.00          </td>
+                                                                                        <td headers="view-field-selling-us-table-column" class="views-field views-field-field-selling-us">L$157.6097/US$1.00          </td>
+              </tr>
+          <tr>
+                                                                                        <td class="press-release-home-css views-field views-field-field-content-post-date" headers="view-field-content-post-date-table-column"><div>
+                              <time datetime="2023-01-19T12:00:00Z">January 19, 2023</time>
+
+                            </div>          </td>
+                                                                                        <td headers="view-field-buying-us-table-column" class="views-field views-field-field-buying-us">L$155.3973/1.00          </td>
+                                                                                        <td headers="view-field-selling-us-table-column" class="views-field views-field-field-selling-us">L$157.5403/US$1.00          </td>
+              </tr>
+      </tbody>
+</table>
+
+
+    </div>
+  
+          <div class="more-link form-group"><a href="/research/buying-selling-rates">View All</a></div>
+
+      </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+			                    	</div>
+			                    	                    	</div>	
+                        
+            </div>
+</div>
+</div>
+</div> 
+
+
+
+
+
+
+
+  <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+          
+
+                              <div class="col-sm-12" role="heading">
+              <div class="region region-header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+          </div>
+              
+                  
+      		
+
+
+             <div id="news-key-document" class=" container clearfix">
+           
+            
+                        <div class="row">             	<div class="col-md-12">
+                	<div class="long_publication">
+                		  <div class="region region-long-publication">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-21 clearfix" id="block-views-block-home-page-carousel-block-21">
+  
+    
+
+      <div class="form-group"><div class="view view-home-page-carousel view-id-home_page_carousel view-display-id-block_21 js-view-dom-id-fea94fa0cb589221d50a79e430bb1f96db7ca650ded6c40b444cd6f981540ea4">
+  
+    
+      
+      <div class="view-content">
+      <div id="views-bootstrap-home-page-carousel-block-21"  class="grid views-view-grid horizontal">
+            <div class="row">
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-blurb"><div class="field-content"><div class="row">
+<div class="col-md-12 co-title"><a href="/general/economic-policies">Economic Policy</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 cor-icon"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <span class="fas fa-money-check-alt " data-fa-transform="" data-fa-mask=""></span>
+</div>
+
+  </div>
+</div><div class="col-md-9 cor-blurb">The Central Bank of Liberia maintains the capability to analyse all key economic policy issues that impact the economy of Liberia. </div>
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-blurb"><div class="field-content"><div class="row">
+<div class="col-md-12 co-title"><a href="/general/financial-stability">Financial Stability</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 cor-icon"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <span class="fas fa-balance-scale " data-fa-transform="" data-fa-mask=""></span>
+</div>
+
+  </div>
+</div><div class="col-md-9 cor-blurb">Financial stability refers to a well-functioning, liquid, solvent and sound financial system that efficiently facilitates payments. </div>
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-blurb"><div class="field-content"><div class="row">
+<div class="col-md-12 co-title"><a href="/general/supervision-department">Regulation and Supervision</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 cor-icon"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <span class="fas fa-chalkboard-teacher " data-fa-transform="" data-fa-mask=""></span>
+</div>
+
+  </div>
+</div><div class="col-md-9 cor-blurb">The Central Bank of Liberia promotes financial stability in the country through the regulation and supervision of banks and other financial institutions. </div>
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-blurb"><div class="field-content"><div class="row">
+<div class="col-md-12 co-title"><a href="/general/payment-systems-department">Payment Systems</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 cor-icon"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <span class="fas fa-microchip " data-fa-transform="" data-fa-mask=""></span>
+</div>
+
+  </div>
+</div><div class="col-md-9 cor-blurb">The Central Bank of Liberia has embarked on a program of reforms to modernize the National Payments System and bring the systems in line with international standards.  </div>
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-blurb"><div class="field-content"><div class="row">
+<div class="col-md-12 co-title"><a href="/general/currency">Currency</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 cor-icon"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <span class="fas fa-money-bill " data-fa-transform="" data-fa-mask=""></span>
+</div>
+
+  </div>
+</div><div class="col-md-9 cor-blurb">The Central Bank of Liberia issues currency. The Liberian currency comprises banknotes and coins. The Liberian Dollar is the official currency of the Republic of Liberia.  </div>
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-blurb"><div class="field-content"><div class="row">
+<div class="col-md-12 co-title"><a href="/general/treasury">Financial Markets</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 cor-icon"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <span class="fas fa-chart-area " data-fa-transform="" data-fa-mask=""></span>
+</div>
+
+  </div>
+</div><div class="col-md-9 cor-blurb">The Central Bank of Liberia engages in a variety of operations in domestic financial markets, covering money, bond markets, and foreign exchange markets. </div>
+</div></div></div>
+            </div>
+          </div>
+              </div>
+      </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                	</div>
+                </div>
+            </div>                         
+            
+            <div class="row">             	<div class="col-md-6">
+            
+            	                    
+                     <div class="row publications">                     	<div class="col-md-12 publications-inner">
+                    		                    	</div>
+                    </div>  
+            	</div>
+            	
+            	<div class="col-md-6">
+            
+            	  
+                    
+                                	</div>
+            </div>             
+            
+        </div>    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+      
+
+
+            
+     
+                                                 
+
+
+
+
+
+
+
+            
+      <section class="col-sm-12">
+
+                
+                
+                
+                                      
+                  
+                          <a id="main-content-above"></a>
+          
+        
+                          <a id="main-content"></a>
+            <div class="region region-content">
+      <article data-history-node-id="1" role="article" about="/public/home" class="fp full clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    
+  </div>
+
+</article>
+
+
+  </div>
+
+        
+      </section>
+
+
+       
+            
+    </div>
+  </div>
+
+
+
+
+                       <div class=" container-fluid clearfix footer-above">
+        	<div class="container">
+		        <div class="row">
+		          <div class="col-sm-12">
+		              <div class="region region-footer-above">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-3 clearfix" id="block-views-block-home-page-carousel-block-3">
+  
+      <h2 class="block-title">Recent Documents </h2>
+    
+
+      <div class="form-group"><div class="view view-home-page-carousel view-id-home_page_carousel view-display-id-block_3 js-view-dom-id-0ebceb886081090464b9786c7c131b21f6124e3ee7adc3c80091bd69068d9ab7">
+  
+    
+      
+      <div class="view-content">
+      <div id="views-bootstrap-home-page-carousel-block-3"  class="grid views-view-grid horizontal">
+            <div class="row">
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-content-post-date"><div class="field-content"><div class="row doc-wripper">
+<div class="col-md-1"><i class="fas fa-file-alt"></i></div><div class="col-md-11 docx">
+<a href="/sites/default/files/documents/FEB_2nd_quarter_2022.pdf" target="_blank">Financial and Economic Bulletin Volume 23, No. 2 - April - June 2022 </a><br />
+<time datetime="00Z">October 18, 2022</time>
+ 
+</div>
+
+
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-content-post-date"><div class="field-content"><div class="row doc-wripper">
+<div class="col-md-1"><i class="fas fa-file-alt"></i></div><div class="col-md-11 docx">
+<a href=" target="_blank"> CBL Bills Redemption Report for the Week Ending October 14, 2022 </a><br />
+<time datetime="00Z">October 18, 2022</time>
+ 
+</div>
+
+
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-content-post-date"><div class="field-content"><div class="row doc-wripper">
+<div class="col-md-1"><i class="fas fa-file-alt"></i></div><div class="col-md-11 docx">
+<a href="/sites/default/files/documents/Issuance%20of%20CBL%20Bills%20-%20october_14_2022.pdf" target="_blank">CBL Bill Issuance Report for the week ending October 14, 2022 </a><br />
+<time datetime="00Z">October 18, 2022</time>
+ 
+</div>
+
+
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-content-post-date"><div class="field-content"><div class="row doc-wripper">
+<div class="col-md-1"><i class="fas fa-file-alt"></i></div><div class="col-md-11 docx">
+<a href="/sites/default/files/documents/Amended_Remittace_Regulation.pdf" target="_blank">Concerning Regulation for the Licensing and Supervision of Money Remittance Entities </a><br />
+<time datetime="00Z">October 17, 2022</time>
+ 
+</div>
+
+
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-content-post-date"><div class="field-content"><div class="row doc-wripper">
+<div class="col-md-1"><i class="fas fa-file-alt"></i></div><div class="col-md-11 docx">
+<a href="/sites/default/files/documents/AMLTF%20Act%202022.pdf" target="_blank">Anti Money Laundering, Terrorist Financing, Preventive Measures, and Proceeds of Crime Act, 2021 </a><br />
+<time datetime="00Z">October 12, 2022</time>
+ 
+</div>
+
+
+</div></div></div>
+            </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="thumbnail">
+              <div class="views-field views-field-field-content-post-date"><div class="field-content"><div class="row doc-wripper">
+<div class="col-md-1"><i class="fas fa-file-alt"></i></div><div class="col-md-11 docx">
+<a href="/sites/default/files/documents/Communique_No_11_2022.pdf" target="_blank">Communique No. 11 – Monetary Policy Meetings held by the Board of Governors on Wednesday 17th August 2022 </a><br />
+<time datetime="00Z">September 5, 2022</time>
+ 
+</div>
+
+
+</div></div></div>
+            </div>
+          </div>
+              </div>
+      </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+		          </div>
+		          
+		          		        </div> 
+		      </div>
+		    </div>
+               
+
+
+      
+
+
+
+
+
+
+      <footer class="container-fluid new-footer">
+    <div class="row">
+    <div class=" ft-gol container">
+      <div class="row"> 
+		        
+        <div id="quick-infoz" class="col-sm-4">
+              <div class="region region-footer-two">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-6 clearfix" id="block-views-block-home-page-carousel-block-6">
+  
+      <h2 class="block-title">Quick Information</h2>
+    
+
+      <div class="form-group"><div class="q-links-cbl view view-home-page-carousel view-id-home_page_carousel view-display-id-block_6 js-view-dom-id-ca615146068659f058dc55037193f00f9758f394dc716e43b79a1d138989788c">
+  
+    
+      
+      <div class="view-content">
+      <div>
+  
+  <ul>
+
+          <li><div><span><a href="">Anti Money Laundering, Terrorist Financing, Preventive Measures, and Proceeds of Crime Act, 2021</a></span></div></li>
+          <li><div><span><a href="">Communique NO. 12:  Monetary Policy Committee Meeting Held by the Board of Governors</a></span></div></li>
+          <li><div><span><a href="">CBL WARNS DELINQUENT BORROWERS:  Risk Being Barred From Accessing Banking Services</a></span></div></li>
+          <li><div><span><a href="">Estimating Dynamic Stochastic General Equilibrium Models for Monetary Policy Analysis in Liberia: An Extension Using Bayesian Approach</a></span></div></li>
+          <li><div><span><a href="https://estatements.cbl.org.lr/index.php">CBL E-Statement</a></span></div></li>
+          <li><div><span><a href="/publications/document-type/regulator">CBL Newsletter - The Regulator</a></span></div></li>
+          <li><div><span><a href="/publications/document-type/central-bank-liberia-acts-and-laws">Central Bank of Liberia Acts</a></span></div></li>
+          <li><div><span><a href="/publications/document-type/working-paper-series">Working Paper Series</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+        </div>
+
+        <div class="col-sm-4">
+              <div class="region region-footer-three">
+    <section id="block-contact" class="block block-block-content block-block-content42222286-109c-4049-bce4-7ee3406318d9 clearfix">
+  
+      <h2 class="block-title">Contact</h2>
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><strong>CBL Headquarters</strong></p>
+
+<p>Ashmun &amp; Lynch Streets </p>
+
+<p>Monrovia, Liberia</p>
+
+<p><i class="fas fa-phone-alt"></i>+231 77 660 9066</p>
+
+<p> </p>
+
+<p><a class="btn btn-default" href="/contact">Contact Form</a></p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+        </div> 
+        
+        <div class="col-sm-4">
+              <div class="region region-footer-four">
+    <section class="views-element-container block block-views block-views-blockhome-page-carousel-block-26 clearfix" id="block-views-block-home-page-carousel-block-26-2">
+  
+      <h2 class="block-title">Knowledge Bank</h2>
+    
+
+      <div class="form-group"><div class="knowledge-bank-cbl view view-home-page-carousel view-id-home_page_carousel view-display-id-block_26 js-view-dom-id-aec44407095feccbfaa6a26fffe57dbe1f550c88c8c636783de83576a7a209ef">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+        </div>
+
+      </div>
+      </div>
+      </div>
+    </footer>
+  
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <section class="footer-base container-fluid hidden-sm hidden-xs" role="contentinfo">
+
+	  <div class="footer-base-last container"> 
+		<div class="row"> 
+		<hr class="footer-line-one" />
+	          
+	          
+	          <div class="col-sm-6 footer-base-logo hidden-xs">
+	               <div class="region region-footer-name-one">
+    <section id="block-copyright" class="block block-block-content block-block-content64ece9e9-c656-4659-9806-d47d54a9ce45 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p class="ff">Copyright © All Rights Reserved.</p></div>
+      
+  </section>
+
+
+  </div>
+
+	              
+	          </div>
+	          
+	          <div class="col-sm-6 col-xs-12 footer-base-socialww">
+	             <div class="pull-right">   <div class="region region-footer-social-one">
+    <section id="block-socialmedialinks" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/centralbanklib"  target="_blank" >
+        <span class='fa fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/centralbanklib"  target="_blank" >
+        <span class='fa fa-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--contact" href="/index.php/contact"  target="_blank" >
+        <span class='fa fa-envelope fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+  </div>
+	          </div>
+	          
+	          
+		</div>
+	</div>
+</section>
+
+  </div>
+
+    <div class="off-canvas-wrapper"><div id="off-canvas">
+              <ul>
+              <li class="menu-item--c8b22092-daf7-4f7b-9183-a2946ff1f5f0 menu-name--main">
+        <a href="/index.php/general/brief-history-central-bank-liberia" data-drupal-link-system-path="node/3061">About Us</a>
+                                <ul>
+              <li class="menu-item--ff518757-f866-4e2b-ab0d-e134310143b9 menu-name--main">
+        <a href="/index.php/general/board-governors" data-drupal-link-system-path="node/3223">The Board of Governors</a>
+              </li>
+          <li class="menu-item--_2adff5a-c6fa-4353-a6eb-d6fa8d711269 menu-name--main">
+        <a href="/index.php/general/committees-central-bank-liberia" data-drupal-link-system-path="node/3224">Committees</a>
+              </li>
+          <li class="menu-item--e28cfacf-ef13-4d4a-bfb9-763d81ad5e8c menu-name--main">
+        <a href="/index.php/general/list-senior-staff-central-bank-liberia" data-drupal-link-system-path="node/3254">Senior Staff Directory</a>
+              </li>
+          <li class="menu-item--b47fb350-425c-4458-878a-89063a0ddde1 menu-name--main">
+        <a href="/index.php/general/organizational-chart-and-other-information" data-drupal-link-system-path="node/3255">Organizational Chart</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu180 menu-name--main">
+        <a href="/index.php/publications/document-type/central-bank-liberia-acts-and-laws" data-drupal-link-system-path="taxonomy/term/180">Central Bank of Liberia Acts and By-Laws</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--bf003797-cde3-4c03-9888-b17ffdc237d1 menu-name--main">
+        <a href="/index.php/general/office-governor" data-drupal-link-system-path="node/3062">Governor</a>
+                                <ul>
+              <li class="menu-item--_c829a01-05fe-4b28-82f3-3b5ec3de50c7 menu-name--main">
+        <a href="/index.php/senior-management/governors-profile-0" data-drupal-link-system-path="node/3274">Governor&#039;s Profile</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu213 menu-name--main">
+        <a href="/index.php/publications/document-type/special-statement" data-drupal-link-system-path="taxonomy/term/213">Special Statement</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu214 menu-name--main">
+        <a href="/index.php/publications/document-type/regulator" data-drupal-link-system-path="taxonomy/term/214">The Regulator</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu215 menu-name--main">
+        <a href="/index.php/publications/document-type/other-information-0" data-drupal-link-system-path="taxonomy/term/215">Other information</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--e3fcb06f-8791-49d2-8f56-a62b63bf088c menu-name--main">
+        <a href="/index.php/general/development-finance" data-drupal-link-system-path="node/3218">Development Finance</a>
+                                <ul>
+              <li class="menu-item--baa3c4fb-194d-431a-8320-9aaa47ad486e menu-name--main">
+        <a href="/index.php/general/financial-inclusion-initiatives" data-drupal-link-system-path="node/3262">Financial Inclusion Initiatives</a>
+              </li>
+          <li class="menu-item--ae34a382-a047-4377-8d51-635e2e985621 menu-name--main">
+        <a href="/index.php/general/microfinance-institutions" data-drupal-link-system-path="node/3263">Microfinance Institutions</a>
+              </li>
+          <li class="menu-item--a8786568-7547-48c1-8356-05016748e76e menu-name--main">
+        <a href="/index.php/general/credit-unions" data-drupal-link-system-path="node/3264">Credit Unions</a>
+              </li>
+          <li class="menu-item--d51f0a4c-ddd5-47a1-bbab-398254fa80ff menu-name--main">
+        <a href="/index.php/general/village-savings-and-loan-associations" data-drupal-link-system-path="node/3265">Village Savings and Loan Associations</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu217 menu-name--main">
+        <a href="/index.php/publications/document-type/micro-finance-documents-and-publications" data-drupal-link-system-path="taxonomy/term/217">Micro Finance Documents and Publications</a>
+              </li>
+          <li class="menu-item--f272b4b1-d065-4247-a008-2cfdf6a9b9b6 menu-name--main">
+        <a href="/index.php/general/rural-community-finance-institutions" data-drupal-link-system-path="node/3266">Rural Community Finance Institutions</a>
+              </li>
+          <li class="menu-item--c240afc4-b5c7-44d8-b6de-4d61c38876cf menu-name--main">
+        <a href="/index.php/general/maya-declaration-liberia" data-drupal-link-system-path="node/3267">Maya Declaration for Liberia</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--fafb0848-f1b0-468e-88bb-03097f60237d menu-name--main">
+        <a href="/index.php/general/treasury" data-drupal-link-system-path="node/3216">Financial Markets</a>
+                                <ul>
+              <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu197 menu-name--main">
+        <a href="/index.php/publications/document-type/financial-market-acts" data-drupal-link-system-path="taxonomy/term/197">Financial Market Acts</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu198 menu-name--main">
+        <a href="/index.php/publications/document-type/rules-and-regulations" data-drupal-link-system-path="taxonomy/term/198">Rules and Regulations</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu199 menu-name--main">
+        <a href="/index.php/publications/document-type/treasury-bills" data-drupal-link-system-path="taxonomy/term/199">Treasury Bills</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu200 menu-name--main">
+        <a href="/index.php/publications/document-type/bidding-forms" data-drupal-link-system-path="taxonomy/term/200">Bidding Forms</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu201 menu-name--main">
+        <a href="/index.php/publications/document-type/central-bank-liberia-bills" data-drupal-link-system-path="taxonomy/term/201">Central Bank of Liberia Bills</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--_a387b16-0dd8-4dc8-983c-df5e8508045c menu-name--main">
+        <a href="/index.php/general/supervision-department" data-drupal-link-system-path="node/3065">Supervision</a>
+                                <ul>
+              <li class="menu-item--_eebd2d1-0733-483a-af6f-c3e487456729 menu-name--main">
+        <a href="/index.php/general/mission-statement-supervision-department" data-drupal-link-system-path="node/3271">Mission Statement and Objectives</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu202 menu-name--main">
+        <a href="/index.php/publications/document-type/regulatory-framework-all-acts" data-drupal-link-system-path="taxonomy/term/202">Regulatory Framework - (All Acts)</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu203 menu-name--main">
+        <a href="/index.php/publications/document-type/regulations" data-drupal-link-system-path="taxonomy/term/203">Regulations</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu204 menu-name--main">
+        <a href="/index.php/publications/document-type/directives" data-drupal-link-system-path="taxonomy/term/204">Directives</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu205 menu-name--main">
+        <a href="/index.php/publications/document-type/guidelines" data-drupal-link-system-path="taxonomy/term/205">Guidelines</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu206 menu-name--main">
+        <a href="/index.php/publications/document-type/bank-restructuring-and-resolution" data-drupal-link-system-path="taxonomy/term/206">Bank Restructuring and Resolution</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu207 menu-name--main">
+        <a href="/index.php/publications/document-type/financial-charges-banking-industry" data-drupal-link-system-path="taxonomy/term/207">Financial Charges in the Banking Industry</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu209 menu-name--main">
+        <a href="/index.php/publications/document-type/insurance" data-drupal-link-system-path="taxonomy/term/209">Insurance</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu210 menu-name--main">
+        <a href="/index.php/publications/document-type/non-banks-financial-institutions" data-drupal-link-system-path="taxonomy/term/210">Non Banks Financial Institutions</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu211 menu-name--main">
+        <a href="/index.php/publications/document-type/financial-information-banking-industry" data-drupal-link-system-path="taxonomy/term/211">Financial Information of the Banking Industry</a>
+              </li>
+          <li class="menu-item--_a3ca131-df9a-4daa-8b36-4d4cb8b7dfcb menu-name--main">
+        <a href="/index.php/general/commercial-banks-liberia-information" data-drupal-link-system-path="node/3272">Commercial Banks of Liberia Information</a>
+              </li>
+          <li class="menu-item--_c82862b-0e76-4297-9f2e-22fada652bb1 menu-name--main">
+        <a href="/index.php/general/consumer-education-and-awareness" data-drupal-link-system-path="node/3273">Consumer Education and Awareness</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu216 menu-name--main">
+        <a href="/index.php/publications/document-type/consumer-protection" data-drupal-link-system-path="taxonomy/term/216">Consumer Protection</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--e5f30678-42c2-45ec-9c83-cfc21dcbfb83 menu-name--main">
+        <a href="/index.php/general/research-department" data-drupal-link-system-path="node/3215">Research</a>
+                                <ul>
+              <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu182 menu-name--main">
+        <a href="/index.php/publications/document-type/liberia-financial-statistical-reports" data-drupal-link-system-path="taxonomy/term/182">Liberia Financial Statistical Reports</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu183 menu-name--main">
+        <a href="/index.php/publications/document-type/economic-bulletin" data-drupal-link-system-path="taxonomy/term/183">Economic Bulletin</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu184 menu-name--main">
+        <a href="/index.php/publications/document-type/cbl-policy-statement-and-direction" data-drupal-link-system-path="taxonomy/term/184">CBL Policy Statement and Direction</a>
+              </li>
+          <li class="menu-item--viewshome-page-carouselpage-2 menu-name--main">
+        <a href="/index.php/research/buying-selling-rates" data-drupal-link-system-path="research/buying-selling-rates">Daily Exchange Rates</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu185 menu-name--main">
+        <a href="/index.php/publications/document-type/cbl-newsletter" data-drupal-link-system-path="taxonomy/term/185">CBL Newsletter</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu186 menu-name--main">
+        <a href="/index.php/publications/document-type/cbl-annual-reports" data-drupal-link-system-path="taxonomy/term/186">CBL Annual Reports</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu187 menu-name--main">
+        <a href="/index.php/publications/document-type/liberia-hpci" data-drupal-link-system-path="taxonomy/term/187">Liberia HPCI</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu188 menu-name--main">
+        <a href="/index.php/publications/document-type/balance-payment-reports" data-drupal-link-system-path="taxonomy/term/188">Balance of Payment Reports</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu208 menu-name--main">
+        <a href="/index.php/publications/document-type/supervision-reports" data-drupal-link-system-path="taxonomy/term/208">Supervision Reports</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu189 menu-name--main">
+        <a href="/index.php/publications/document-type/foreign-exchange-auction" data-drupal-link-system-path="taxonomy/term/189">Foreign Exchange Auction</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu190 menu-name--main">
+        <a href="/index.php/publications/document-type/factsheets" data-drupal-link-system-path="taxonomy/term/190">Factsheets</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu191 menu-name--main">
+        <a href="/index.php/publications/document-type/cpi-year-year-rate-inflation" data-drupal-link-system-path="taxonomy/term/191">CPI (Year-On-Year Rate of Inflation)</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu192 menu-name--main">
+        <a href="/index.php/publications/document-type/research-publications" data-drupal-link-system-path="taxonomy/term/192">Research Publications</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu193 menu-name--main">
+        <a href="/index.php/publications/document-type/financial-statements" data-drupal-link-system-path="taxonomy/term/193">Financial Statements</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu219 menu-name--main">
+        <a href="/index.php/publications/document-type/other-information-research" data-drupal-link-system-path="taxonomy/term/219">Other Information from Research</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu194 menu-name--main">
+        <a href="/index.php/publications/document-type/monthly-economic-review" data-drupal-link-system-path="taxonomy/term/194">Monthly Economic Review</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu181 menu-name--main">
+        <a href="/index.php/publications/document-type/working-paper-series" data-drupal-link-system-path="taxonomy/term/181">Working Paper Series</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu195 menu-name--main">
+        <a href="/index.php/publications/document-type/bilateral-exchange-rate" data-drupal-link-system-path="taxonomy/term/195">Bilateral Exchange Rate</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu196 menu-name--main">
+        <a href="/index.php/publications/document-type/statistical-data-series" data-drupal-link-system-path="taxonomy/term/196">Statistical Data Series</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--bb8d3a4c-cf6f-4cd8-9a0a-7ae373b1306b menu-name--main">
+        <a href="/index.php/general/banking-department" data-drupal-link-system-path="node/3217">Banking</a>
+                                <ul>
+              <li class="menu-item--_e6f2d48-fd7a-4e0f-b636-4e1240c33e29 menu-name--main">
+        <a href="/index.php/general/clearing-house" data-drupal-link-system-path="node/3268">Clearing House</a>
+              </li>
+          <li class="menu-item--_0ba5f29-ca0e-41d6-baf4-1600d497c304 menu-name--main">
+        <a href="/index.php/general/currency" data-drupal-link-system-path="node/3220">Currency</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--_908e398-f6b8-4b2d-9b83-5dc0365a59ae menu-name--main">
+        <a href="/index.php/general/payment-systems-department" data-drupal-link-system-path="node/3219">Payment Systems</a>
+                                <ul>
+              <li class="menu-item--d2ee2afa-c213-4360-9632-ad3533ba724c menu-name--main">
+        <a href="/index.php/general/overview-payment-systems-liberia" data-drupal-link-system-path="node/3238">Overview</a>
+              </li>
+          <li class="menu-item--a3d52ae9-e8a2-4a23-9b0b-f9845038d997 menu-name--main">
+        <a href="/index.php/general/payment-systems-regulatory-framework" data-drupal-link-system-path="node/3239">Regulatory Framework</a>
+              </li>
+          <li class="menu-item--_5a904da-d023-49d0-b887-c40082839455 menu-name--main">
+        <a href="/index.php/general/governance-frameworkpayment-systems-oversight" data-drupal-link-system-path="node/3240">Governance Framework</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu220 menu-name--main">
+        <a href="/index.php/publications/document-type/payment-systems-regulatory-framework" data-drupal-link-system-path="taxonomy/term/220">Payment Systems Regulatory Framework</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu218 menu-name--main">
+        <a href="/index.php/publications/document-type/payment-systems-statistics" data-drupal-link-system-path="taxonomy/term/218">Payment Systems Statistics</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--_0f50849-6425-4f1d-a79c-be278d866f59 menu-name--main">
+        <a href="/index.php/general/media" data-drupal-link-system-path="node/3067">Media</a>
+                                <ul>
+              <li class="menu-item--viewsgol-media-centerpage-2 menu-name--main">
+        <a href="/index.php/media/news-press-release" data-drupal-link-system-path="media/news-press-release">News &amp; Press Releases</a>
+              </li>
+          <li class="menu-item--viewsgol-media-centerpage-4 menu-name--main">
+        <a href="/index.php/media/photo-gallery" data-drupal-link-system-path="media/photo-gallery">Photo Gallery</a>
+              </li>
+          <li class="menu-item--viewsgol-media-centerpage-3 menu-name--main">
+        <a href="/index.php/media/videos" data-drupal-link-system-path="media/videos">Videos</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu172 menu-name--main">
+        <a href="/index.php/publications/document-type/vacancies-career-opportunities" data-drupal-link-system-path="taxonomy/term/172">Vacancies &amp; Career Opportunities</a>
+              </li>
+          <li class="menu-item--taxonomy-menumenu-linkpublications-tax-menu179 menu-name--main">
+        <a href="/index.php/publications/document-type/tenders" data-drupal-link-system-path="taxonomy/term/179">Bids &amp; EOIs</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+</div></div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim","modifyViewport":true,"use_bootstrap":true,"breakpoint":"(min-width: 960px)","drag":false},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":""},"ajaxTrustedUrl":{"\/index.php\/search\/node":true},"user":{"uid":0,"permissionsHash":"82793037039b808744739a1f55b0adc87ad93b90ad9c409eb67c3c4a25f01700"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.3.15"></script>
+<script src="/core/misc/drupal.js?v=9.3.15"></script>
+<script src="/core/misc/drupal.init.js?v=9.3.15"></script>
+<script src="/libraries/mmenu/dist/mmenu.js?v=9.3.15"></script>
+<script src="/modules/contrib/responsive_menu/js/responsive_menu.config.js?v=9.3.15"></script>
+<script src="/modules/contrib/responsive_menu/js/responsive_menu.bootstrap.js?v=9.3.15"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=9.3.15"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=9.3.15"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?rdzr3o"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?rdzr3o"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?rdzr3o"></script>
+<script src="/themes/custom/gol/js/theme.js?rdzr3o"></script>
+<script src="/themes/custom/gol/js/simple-skillbar.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/affix.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/alert.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/button.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/carousel.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/collapse.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/dropdown.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/modal.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/tooltip.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/popover.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/scrollspy.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/tab.js?rdzr3o"></script>
+<script src="/themes/custom/gol/bootstrap/js/transition.js?rdzr3o"></script>
+<script src="/modules/contrib/views_bootstrap/js/views-bootstrap.js?v=1.x"></script>
+
+  </body>
+</html>
